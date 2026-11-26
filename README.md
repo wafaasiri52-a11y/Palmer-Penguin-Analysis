@@ -23,8 +23,8 @@ Complete with actual names and work before submission. Each member should review
 
 | Member | Contribution completed | Section reviewed / check performed |
 |---|---|---|
-| Waf Ibrahim | | |
-| Fajr Hamadani | | |
-| Noorah Assiri | | |
-| Amjad Abdullah | | |
-| Atheer Ali Alshehri | | |
+| Wafa Ibrahim | Organized repository structure and moved output files to `outputs/` | Checked `outputs/` paths and `README.md` clarity |
+| Fajr Hamadani | Prepared data cleaning and analysis steps in `Palmer_Analysis.ipynb` | Reviewed `Data source` and notebook steps |
+| Noorah Assiri | Generated summary statistics and `species_summary.csv` / `analysis_ready.csv` | Checked `Results` numbers and CSVoutputs|
+| Amjad Abdullah | Created charts (`association.png`, `flippers.png`, `mass.png`) | Verified figure files in `outputs/` |
+| Atheer Ali Alshehri | Drafted `README.md` and `requirements.txt` | Reviewed `Reproduce the results` instructions |
